@@ -1,0 +1,4 @@
+addWord         method      complexity    O(log n)
+deleteWord      method      complexity    O(log n)
+findWord        method      complexity    O(log n)
+findSimilar     method      complexity    O(N^2)
